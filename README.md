@@ -1,3 +1,7 @@
+*************************
+YOU MUST rvm ruby-2.3.3 FIRST!!!
+*************************
+
 # OpenIDConnect Sample RP
 
 A sample OpenID Connect Relying Party ("RP") using the `openid_connect` gem.

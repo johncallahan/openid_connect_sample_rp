@@ -8,7 +8,8 @@ gem 'squeel'
 gem 'rest-client'
 
 group :development, :test do
-  gem 'sqlite3'
+#  gem 'sqlite3'
+  gem 'pg'
 end
 
 group :test do
